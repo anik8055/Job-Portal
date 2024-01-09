@@ -1,0 +1,47 @@
+
+  .cardcontainer {
+    background-color: rgb(172, 174, 175);
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 20px; /* Example padding */
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 50px;
+    box-shadow: 10px;
+  }
+  
+  .row2 {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .row3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8px;
+    padding: 10px;
+  }
+
+  .jb {
+    border-radius: 20px;
+    border: 1px solid #ff4b2b;
+    background: #ff445c;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+    
+  }
+
+  .lin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Adjust other styles as needed */
+  

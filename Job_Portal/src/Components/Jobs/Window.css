@@ -1,0 +1,9 @@
+.modal {
+    background-color: aliceblue;
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 20px; /* Example padding */
+    margin-bottom: 5px;
+    border-radius: 15px;
+    box-shadow: 10px;
+}
